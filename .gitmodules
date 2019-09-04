@@ -1,0 +1,3 @@
+[submodule "themes/silhouette"]
+	path = themes/silhouette
+	url = https://github.com/mattbutton/silhouette-hugo.git
